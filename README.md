@@ -4,4 +4,4 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BlTT6956)
 
-This project is designed to collect mod IDs for [ModWhitelist](https://www.curseforge.com/minecraft/mc-mods/mod-whitelist) from JAR files through user interface. It simplifies the process and adding mods to your whitelist by extracting mod IDs directly from the files. The program also allows you to easily modify your whitelist JSON.
+This project is designed to collect mod IDs for [ModWhitelist](https://www.curseforge.com/minecraft/mc-mods/mod-whitelist) from JAR files through a graphic interface. It simplifies the process of adding mods to your whitelist by directly extracting mod IDs from the files. Additionally, the program allows you to easily modify your whitelist JSON.
